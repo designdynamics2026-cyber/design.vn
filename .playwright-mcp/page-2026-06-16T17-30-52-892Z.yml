@@ -1,0 +1,209 @@
+- generic [active] [ref=e1]:
+  - text: 
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - link "home" [ref=e7] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e8]
+      - link "Liên Hệ Contact" [ref=e12] [cursor=pointer]:
+        - /url: /contact
+        - generic [ref=e14]:
+          - generic [ref=e15]: Liên Hệ
+          - generic [ref=e16]: Contact
+  - generic [ref=e18]:
+    - generic "Kiến tạo trải nghiệm số thực sự đáng nhớ" [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: K
+        - generic [ref=e24]: i
+        - generic [ref=e25]: ế
+        - generic [ref=e26]: "n"
+      - generic [ref=e27]:
+        - generic [ref=e28]: t
+        - generic [ref=e29]: ạ
+        - generic [ref=e30]: o
+      - generic [ref=e31]:
+        - generic [ref=e32]: t
+        - generic [ref=e33]: r
+        - generic [ref=e34]: ả
+        - generic [ref=e35]: i
+      - generic [ref=e36]:
+        - generic [ref=e37]: "n"
+        - generic [ref=e38]: g
+        - generic [ref=e39]: h
+        - generic [ref=e40]: i
+        - generic [ref=e41]: ệ
+        - generic [ref=e42]: m
+      - generic [ref=e43]:
+        - generic [ref=e44]: s
+        - generic [ref=e45]: ố
+      - generic [ref=e46]:
+        - generic [ref=e47]: t
+        - generic [ref=e48]: h
+        - generic [ref=e49]: ự
+        - generic [ref=e50]: c
+      - generic [ref=e51]:
+        - generic [ref=e52]: s
+        - generic [ref=e53]: ự
+      - generic [ref=e54]:
+        - generic [ref=e55]: đ
+        - generic [ref=e56]: á
+        - generic [ref=e57]: "n"
+        - generic [ref=e58]: g
+      - generic [ref=e59]:
+        - generic [ref=e60]: "n"
+        - generic [ref=e61]: h
+        - generic [ref=e62]: ớ
+    - generic [ref=e66]:
+      - generic [ref=e69]: mục tiêu
+      - generic [ref=e70]: Trong gần một thập kỉ làm việc trong ngành thiết kế sáng tạo, chúng tôi chúng kiến một thị trường đang dần bão hòa bởi những cam kết thiếu chiều sâu và các giải pháp chưa tương xứng với kỳ vọng, chúng tôi thấu hiểu rằng khách hàng chính là đối tượng phải đối mặt với nhiều rủi ro nhất. Dao.design được ra đời với mong muốn phá bỏ rào cản đó.
+      - generic [ref=e71]: Lấy sự tử tế và uy tín làm tôn chỉ hoạt động, chúng tôi cam kết mang lại những giá trị thiết kế thực thụ. Bằng việc kết hợp chặt chẽ giữa quy trình minh bạch, tư duy thiết kế lấy người dùng làm trung tâm và sức mạnh công nghệ từ các giải pháp low-code hiện đại, chúng tôi khẳng định trách nhiệm trong việc bảo vệ tối đa lợi ích và ngân sách của khách hàng. Tại đây, niềm tin của bạn không chỉ là mục tiêu, mà là nền tảng cho mọi giải pháp mà chúng tôi kiến tạo.
+    - generic [ref=e74]:
+      - generic [ref=e77]: dịch vụ
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e82]: thiết kế website
+          - generic [ref=e83]:
+            - generic [ref=e85]:
+              - generic [ref=e86]: Chúng tôi tập trung vào việc tạo ra những trải nghiệm số trực quan, lôi cuốn và lấy người dùng làm trung tâm nhằm mang lại hiệu quả thiết thực cho doanh nghiệp.
+              - generic [ref=e87]:
+                - text: → Nghiên cứu & Định hướng
+                - text: → Art direction
+                - text: → Story telling
+                - text: → Thiết kế Wireframe
+                - text: → Thiết kế Giao diện UI-UX
+                - text: → Design system
+                - text: → Landing page
+            - link "xem dự án" [ref=e89] [cursor=pointer]:
+              - /url: /projects
+        - generic [ref=e90]:
+          - generic [ref=e93]: Phát triển website
+          - generic [ref=e94]:
+            - generic [ref=e96]:
+              - generic [ref=e97]: Giúp doanh nghiệp chuyển hóa các ý tưởng thành những giải pháp số chất lượng cao.
+              - generic [ref=e98]:
+                - text: → Webflow Development
+                - text: → Giải pháp CMS
+                - text: → Tối ưu SEO
+                - text: → Bảo trì & Cập nhật
+            - link "xem dự án" [ref=e100] [cursor=pointer]:
+              - /url: /projects
+        - generic [ref=e101]:
+          - generic [ref=e104]: nhận diện thương hiệu
+          - generic [ref=e105]:
+            - generic [ref=e107]:
+              - generic [ref=e108]: Cùng doanh nghiệp xây dựng một thương hiệu khác biệt, đáng nhớ và nhất quán. Từ đó tạo nên sự kết nối sâu sắc với khách hàng mục tiêu.
+              - generic [ref=e109]:
+                - text: → Định vị cốt lõi
+                - text: → Định hướng thiết kế
+                - text: → Logo độc bản
+                - text: → Font chữ & Hệ màu
+                - text: → Ứng dụng văn phòng
+                - text: → Brand Guidelines
+            - link "xem dự án" [ref=e111] [cursor=pointer]:
+              - /url: /projects
+    - generic [ref=e114]:
+      - generic [ref=e118]: quy trình thiết kế
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - generic [ref=e122]:
+            - generic [ref=e123]: "1"
+            - generic [ref=e124]: Khám phá & Định hình
+          - generic [ref=e125]: Chúng tôi bắt đầu bằng việc lắng nghe sâu sắc — thấu hiểu tầm nhìn, những thách thức, đối tượng khách hàng và mục tiêu của bạn. Thông qua nghiên cứu, các buổi thảo luận (workshops) và những phân tích đối thủ, chúng tôi định hình một nền tảng vững chắc cho mọi bước tiếp theo.
+        - generic [ref=e126]:
+          - generic [ref=e128]:
+            - generic [ref=e129]: "2"
+            - generic [ref=e130]: Thiết kế & tinh chỉnh
+          - generic [ref=e131]: Khi mọi thứ đã rõ ràng, chúng tôi xây dựng khung chiến lược từ cấu trúc website đến luồng người dùng để đảm bảo sự giao thoa giữa hình thức và công năng. Sau đó chuyển hóa thành giao diện trực quan (high-fidelity) với hệ thống thành phần linh hoạt, được tối ưu liên tục để đảm bảo tính đồng nhất giữa thiết kế và thương hiệu.
+        - generic [ref=e132]:
+          - generic [ref=e134]:
+            - generic [ref=e135]: "3"
+            - generic [ref=e136]: Kiểm thử & Triển khai
+          - generic [ref=e137]: Sau khi hoàn thiện thiết kế tổng thể là lúc sản phẩm được lập trình, tinh chỉnh và kiểm thử kỹ lưỡng nhằm mang lại một giải pháp số hoàn chỉnh và sẵn sàng vận hành.
+        - generic [ref=e138]:
+          - generic [ref=e140]:
+            - generic [ref=e141]: "4"
+            - generic [ref=e142]: Bàn giao & đồng hành
+          - generic [ref=e143]: Sau khi hoàn thiện thiết kế tổng thể là lúc sản phẩm được lập trình, tinh chỉnh và kiểm thử kỹ lưỡng nhằm mang lại một giải pháp số hoàn chỉnh và sẵn sàng vận hành.
+    - generic [ref=e147]:
+      - link "đánh giá từ khách hàng" [ref=e151] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - generic [ref=e154]: “One of those guys i know off don’t need the best equipment, a piece of paper can draw a landscape of awesomeness to impress the crowd.”
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - generic [ref=e158]: Joe Zhou
+              - link:
+                - /url: https://www.linkedin.com/in/joehz/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BWRfrGP3MQNK06U8ia1%2BAqQ%3D%3D
+            - generic [ref=e159]: CTO - The Martec
+        - generic [ref=e160]:
+          - generic [ref=e161]: “Website chạm đúng đến giá trị cốt lõi của thương hiệu từ màu sắc, bố cục đến nội dung. Team S.Sens rất hài lòng khi nhận được sản phẩm cũng như cách làm việc của Dao.Design”
+          - generic [ref=e163]:
+            - generic [ref=e165]: Thu HANG
+            - generic [ref=e166]: founder - S.Sens Homes
+    - generic [ref=e168]:
+      - generic [ref=e169]:
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e172]: INSPIRE
+            - img "Right" [ref=e173]
+            - generic [ref=e174]: DELIVERY
+            - img "Right" [ref=e175]
+          - generic [ref=e176]:
+            - generic [ref=e177]: CREATE
+            - img "Right" [ref=e178]
+            - generic [ref=e179]: INSPIRE
+            - img "Right" [ref=e180]
+          - generic [ref=e181]:
+            - generic [ref=e182]: DELIVERY
+            - img "Right" [ref=e183]
+            - generic [ref=e184]: CREATE
+            - img "Right" [ref=e185]
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - generic [ref=e188]: INSPIRE
+            - img "Right" [ref=e189]
+            - generic [ref=e190]: DELIVERY
+            - img "Right" [ref=e191]
+          - generic [ref=e192]:
+            - generic [ref=e193]: CREATE
+            - img "Right" [ref=e194]
+            - generic [ref=e195]: INSPIRE
+            - img "Right" [ref=e196]
+          - generic [ref=e197]:
+            - generic [ref=e198]: DELIVERY
+            - img "Right" [ref=e199]
+            - generic [ref=e200]: CREATE
+            - img "Right" [ref=e201]
+      - generic [ref=e202]:
+        - generic [ref=e203]:
+          - generic [ref=e204]:
+            - generic [ref=e206]: based in Vietnam
+            - link "studio.daodesign" [ref=e207] [cursor=pointer]:
+              - /url: https://www.instagram.com/studio.daodesign/
+              - generic [ref=e209]: studio.daodesign
+            - link "studiodaodesign@gmail.com" [ref=e210] [cursor=pointer]:
+              - /url: mailto:studiodaodesign@gmail.com?subject=Email%20from%20daodesign.vn
+              - generic [ref=e212]: studiodaodesign@gmail.com
+          - generic [ref=e215]:
+            - link "trang chủ" [ref=e216] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e217]: trang chủ
+            - link "dự án" [ref=e219] [cursor=pointer]:
+              - /url: /projects
+              - generic [ref=e220]: dự án
+            - link "giới thiệu" [ref=e222] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e223]: giới thiệu
+            - link "kết nối" [ref=e226] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e227]: kết nối
+          - generic [ref=e229]:
+            - strong [ref=e231]: Bạn đã sẵn sàng chia sẻ?
+            - generic [ref=e232]: Kết nối với chúng tôi để cùng bắt đầu hành trình hiện thực hóa tầm nhìn của bạn.
+        - generic [ref=e234]:
+          - generic [ref=e236]: Dao.Design
+          - generic [ref=e238]: working globally
+  - link [ref=e290] [cursor=pointer]:
+    - /url: https://www.awwwards.com/sites/daodesign-vn
+    - img [ref=e291]

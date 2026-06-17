@@ -1,0 +1,366 @@
+<!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Sun May 17 2026 17:40:50 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="daodesign.vn" data-wf-page="6983ff5cc1fbfdbc323b1067" data-wf-site="696db0cd2780ac54df960dfb" data-wf-intellimize-customer-id="117540725" lang="vi-VN"><head><meta charset="utf-8"/><link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/><title>Dự án  - Tâm huyết</title><meta content="Bộ sưu tập những sản phẩm số được chăm chút tỉ mỉ từ thiết kế đến vận hành." name="description"/><meta content="Dự án  - Tâm huyết" property="og:title"/><meta content="Bộ sưu tập những sản phẩm số được chăm chút tỉ mỉ từ thiết kế đến vận hành." property="og:description"/><meta content="https://cdn.prod.website-files.com/696db0cd2780ac54df960dfb/69fb43a751e31eff2818e687_Frame%2035307.png" property="og:image"/><meta content="Dự án  - Tâm huyết" name="twitter:title"/><meta content="Bộ sưu tập những sản phẩm số được chăm chút tỉ mỉ từ thiết kế đến vận hành." name="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><link href="/696db0cd2780ac54df960dfb/css/dao-design-caef76.webflow.shared.7cdbea56c.css" rel="stylesheet" type="text/css" integrity="sha384-fNvqVsXIWm5pL0NExUKJG2TnGbk2wVIi7oXLDPd0+WMPdtW/A5q7lFB5i+hBt0e5" crossorigin="anonymous"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="/696db0cd2780ac54df960dfb/69fca0740a8358870edd55bb_Frame 35306.png" rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: light)"/><link href="/696db0cd2780ac54df960dfb/69fca0740a8358870edd55bb_Frame 35306.png" rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: dark)"/><link href="/696db0cd2780ac54df960dfb/69fca07435b81ac8d8bfc4df_Frame 35306.png" rel="icon" type="image/png" sizes="48x48"/><link href="/696db0cd2780ac54df960dfb/69fca07434dd18e7f10ef3c3_Frame 35306.png" rel="apple-touch-icon" sizes="180x180"/><link href="/696db0cd2780ac54df960dfb/69fca0741ec8033a63822224_Frame 35306.png" rel="icon" type="image/png" sizes="192x192"/><link href="/696db0cd2780ac54df960dfb/69fca07440f8bfb60165c108_Frame 35306.png" rel="icon" type="image/png" sizes="512x512"/><style>.anti-flicker, .anti-flicker * {visibility: hidden !important; opacity: 0 !important;}</style><style>[data-wf-hidden-variation], [data-wf-hidden-variation] * {
+        display: none !important;
+      }</style><script type="text/javascript">localStorage.removeItem('intellimize_opt_out_117540725'); if (localStorage.getItem('intellimize_data_tracking_type') !== 'always') { localStorage.setItem('intellimize_data_tracking_type', 'always'); }</script><script type="text/javascript">(function(e){var s={r:[]};e.wf={r:s.r,ready:t=>{s.r.push(t)}}})(window)</script><script type="text/javascript">(function(e,t,p){var n=document.documentElement,s={p:[],r:[]},u={p:s.p,r:s.r,push:function(e){s.p.push(e)},ready:function(e){s.r.push(e)}};e.intellimize=u,n.className+=" "+p,setTimeout(function(){n.className=n.className.replace(RegExp(" ?"+p),"")},t)})(window, 4000, 'anti-flicker')</script><link href="/snippet/117540725.js" rel="preload" as="script"/><script type="text/javascript">var wfClientScript=document.createElement("script");wfClientScript.src="/snippet/117540725.js",wfClientScript.async=!0,wfClientScript.onerror=function(){document.documentElement.className=document.documentElement.className.replace(RegExp(" ?anti-flicker"),"")},document.head.appendChild(wfClientScript);</script><link href="https://api.intellimize.co" rel="preconnect" crossorigin="true"/><link href="https://log.intellimize.co" rel="preconnect" crossorigin="true"/><link href="https://117540725.intellimizeio.com" rel="preconnect"/></head><body><div class="w-layout-blockcontainer nav-bar-wrapper container w-container"><div data-animation="default" class="navbar w-nav" data-easing2="ease-in-out" data-easing="ease-in-out-quad" data-collapse="all" role="banner" data-no-scroll="1" data-duration="700" data-doc-height="1"><div class="container-2 w-container"><nav role="navigation" class="nav-menu w-nav-menu"><div class="div-block-55"><div class="dot-off display-none"></div><a data-wf-native-id-path="02cba83e-8447-563b-55ed-02a9813f05c4:fabb575e-3f8d-63d2-45ec-937ac47ddb66" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="fabb575e-3f8d-63d2-45ec-937ac47ddb66" data-wf-component-context="%5B%7B%22componentId%22%3A%22d874adae-ecc0-4e22-b291-8f844bf68f4f%22%2C%22instanceId%22%3A%2202cba83e-8447-563b-55ed-02a9813f05c4%22%7D%5D" href="/" class="nav-link w-nav-link">Trang chủ</a></div><div class="divider_horizontal"></div><div class="div-block-55 align-right padding-104"><div class="dot-off display-none"></div><a data-wf-native-id-path="02cba83e-8447-563b-55ed-02a9813f05c4:4b5859cd-4859-e24b-571a-4c962ef77ec6" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="4b5859cd-4859-e24b-571a-4c962ef77ec6" data-wf-component-context="%5B%7B%22componentId%22%3A%22d874adae-ecc0-4e22-b291-8f844bf68f4f%22%2C%22instanceId%22%3A%2202cba83e-8447-563b-55ed-02a9813f05c4%22%7D%5D" href="/about" class="nav-link w-nav-link">Giới thiệu</a></div><div class="divider_horizontal"></div><div class="div-block-55 padding-104"><div class="dot-off display-none"></div><a data-wf-native-id-path="02cba83e-8447-563b-55ed-02a9813f05c4:79ae7e77-7d41-ef5b-68e7-7911f0d4ac6e" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="79ae7e77-7d41-ef5b-68e7-7911f0d4ac6e" data-wf-component-context="%5B%7B%22componentId%22%3A%22d874adae-ecc0-4e22-b291-8f844bf68f4f%22%2C%22instanceId%22%3A%2202cba83e-8447-563b-55ed-02a9813f05c4%22%7D%5D" href="/projects" aria-current="page" class="nav-link w-nav-link w--current">Dự Án</a></div><div class="divider_horizontal"></div><div class="div-block-55 padding-104 display-none"><img src="/696db0cd2780ac54df960dfb/697f22865c3f556475c009cc_arrow-up-right.png" loading="lazy" alt="" class="image-18 display-none"/><a data-wf-native-id-path="02cba83e-8447-563b-55ed-02a9813f05c4:c25780ea-61d9-52cb-fbb3-8a578e77a917" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="c25780ea-61d9-52cb-fbb3-8a578e77a917" data-wf-component-context="%5B%7B%22componentId%22%3A%22d874adae-ecc0-4e22-b291-8f844bf68f4f%22%2C%22instanceId%22%3A%2202cba83e-8447-563b-55ed-02a9813f05c4%22%7D%5D" href="/contact" class="nav-link display-none w-nav-link">kết nối ngay</a></div><div class="div-block-53"><a data-wf-native-id-path="02cba83e-8447-563b-55ed-02a9813f05c4:3d2b56cd-6549-1bdb-55f2-c8fc49941ea1" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="3d2b56cd-6549-1bdb-55f2-c8fc49941ea1" data-wf-component-context="%5B%7B%22componentId%22%3A%22d874adae-ecc0-4e22-b291-8f844bf68f4f%22%2C%22instanceId%22%3A%2202cba83e-8447-563b-55ed-02a9813f05c4%22%7D%5D" href="/contact" class="nav-link-copy w-nav-link">kết nối ngay</a><img src="/696db0cd2780ac54df960dfb/697f22865c3f556475c009cc_arrow-up-right.png" loading="lazy" alt="" class="image-18"/></div></nav><a data-wf-native-id-path="02cba83e-8447-563b-55ed-02a9813f05c4:52ac2585-4ad3-b3bc-e66e-6c82eeec27de" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="52ac2585-4ad3-b3bc-e66e-6c82eeec27de" data-wf-component-context="%5B%7B%22componentId%22%3A%22d874adae-ecc0-4e22-b291-8f844bf68f4f%22%2C%22instanceId%22%3A%2202cba83e-8447-563b-55ed-02a9813f05c4%22%7D%5D" href="/" class="brand w-nav-brand"><div class="div-block-51"><img src="/696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo.png" loading="lazy" sizes="(max-width: 1512px) 100vw, 1512px" srcset="/696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-500.png 500w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-800.png 800w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-1080.png 1080w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo.png 1512w" alt="" class="image-16"/></div></a><div class="menu-wrapper w-nav-button"><div data-hover="" role="button" data-menu-button="burger" class="menu-button"><div class="text-block-37">MENU</div><div class="div-block-81"><div class="menu-button-line"></div><div class="menu-button-line"></div><div class="menu-button-line"></div></div></div><div class="icon w-icon-nav-menu"></div></div></div></div><div class="code-embed-4 w-embed w-script"><script src="/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="/npm/gsap@3.12.5/dist/CustomEase.min.js"></script>
+
+<script>
+gsap.registerPlugin(CustomEase)
+CustomEase.create("button-ease", "0.5, 0.05, 0.05, 0.99")
+
+function initMenuButton() {
+  // Select elements
+  const menuButton = document.querySelector("[data-menu-button]");
+  const lines = document.querySelectorAll(".menu-button-line");
+  const [line1, line2, line3] = lines;
+  
+  // Define one global timeline
+  let menuButtonTl = gsap.timeline({
+    defaults:{
+      overwrite:"auto",
+      ease: "button-ease",
+  	  duration: 0.3
+    }
+  })
+
+  const menuOpen = () => {
+    menuButtonTl.clear() // Stop any previous tweens, if any
+    .to(line2, { scaleX: 0, opacity: 0 }) // Step 1: Hide middle line
+    .to(line1, { x: "-1.3em", opacity: 0 }, "<") // Step 1: Movetop line
+    .to(line3, { x: "1.3em", opacity: 0 }, "<") // Step 1: Move bottom line
+    .to([line1,line3],{opacity:0, duration: 0.1},"<+=0.2") // Step 2: Quickly fade top and bottom lines
+    .set(line1, { rotate: -135, y: "-1.3em", scaleX: 0.9 }) // Step 3: Instantly rotate and scale top line
+    .set(line3, { rotate: 135, y: "-1.4em", scaleX: 0.9 }, "<") // Step 3: Instantly rotate and scale bottom line
+    .to(line1, { opacity: 1, x: "0em", y: "0.5em"}) // Step 4: Move top line to final position
+    .to(line3, { opacity: 1, x: "0em", y: "-0.25em" }, "<+=0.1"); // Step 4: Move bottom line to final position
+  }
+
+  const menuClose = () => {
+    menuButtonTl.clear() // Stop any previous tweens, if any
+    .to([line1, line2, line3], { // Move all lines back in a different animation
+      scaleX: 1,
+      rotate: 0,
+      x: "0em",
+      y: "0em",
+      opacity: 1,
+      duration: 0.45,
+      overwrite: "auto",
+    })
+  }
+
+  // Toggle Animation
+  menuButton.addEventListener("click", () => {
+    const currentState = menuButton.getAttribute("data-menu-button");
+
+    if (currentState === "burger") {
+      menuOpen()
+      menuButton.setAttribute("data-menu-button", "close");
+    } else {
+      menuClose()
+      menuButton.setAttribute("data-menu-button", "burger");
+    }
+  });
+}
+
+// Initialize Burger Menu Button
+document.addEventListener('DOMContentLoaded', () => {
+  initMenuButton();
+});
+</script></div></div><div data-animation="default" data-collapse="medium" data-duration="500" data-easing="ease-in" data-easing2="ease-in" role="banner" class="navbar-3-none-homepage w-nav"><div class="navbar-main"><div class="container-4 w-container"><div class="navbar-content-flex"><div class="brand-logo-block"><a data-wf-native-id-path="66d880b6-d62d-b148-5c81-343036b9945e" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="66d880b6-d62d-b148-5c81-343036b9945e" href="/" class="brand-logo-link w-nav-brand"><img src="/696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo.png" loading="lazy" sizes="100vw" srcset="/696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-500.png 500w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-800.png 800w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-1080.png 1080w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo.png 1512w" alt="" class="brand-logo"/></a></div><nav role="navigation" class="nav-menu-3 w-nav-menu"><div class="nav-menu-flex-down"><a href="/" data-w-id="66d880b6-d62d-b148-5c81-343036b99462" data-wf-native-id-path="66d880b6-d62d-b148-5c81-343036b99462" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="66d880b6-d62d-b148-5c81-343036b99462" class="nav-menu-link w-inline-block"><div style="opacity:0" class="nav-menu-dot"></div><div class="nav-text">Trang Chủ</div></a><a data-w-id="66d880b6-d62d-b148-5c81-343036b99466" data-wf-native-id-path="66d880b6-d62d-b148-5c81-343036b99466" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="66d880b6-d62d-b148-5c81-343036b99466" href="/about" class="nav-menu-link w-inline-block"><div style="opacity:0" class="nav-menu-dot"></div><div class="nav-text">Giới Thiệu</div></a><a data-w-id="66d880b6-d62d-b148-5c81-343036b9946a" data-wf-native-id-path="66d880b6-d62d-b148-5c81-343036b9946a" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="66d880b6-d62d-b148-5c81-343036b9946a" href="/projects" aria-current="page" class="nav-menu-link w-inline-block w--current"><div style="opacity:0" class="nav-menu-dot"></div><div class="nav-text">Dự Án</div></a><div class="button-wrap nav-tablet"><a data-wf-native-id-path="66d880b6-d62d-b148-5c81-343036b9946f" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="66d880b6-d62d-b148-5c81-343036b9946f" href="/#contact" class="nav-button w-inline-block"><div class="nav-button-dot"></div><div class="nav-button-text-wrap"><div class="nav-button-text">Contact</div><div class="nav-button-text">Contact</div></div></a></div></div></nav><div class="navbar-button-humber-wrapper"><div class="button-wrap nav"><a data-wf-native-id-path="66d880b6-d62d-b148-5c81-343036b99478" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="66d880b6-d62d-b148-5c81-343036b99478" href="/contact" class="nav-button w-inline-block"><div class="nav-button-dot"></div><div class="nav-button-text-wrap"><div class="nav-button-text">Liên Hệ</div><div class="nav-button-text">Contact</div></div></a></div><div class="nav-menu-button w-nav-button"><div data-w-id="66d880b6-d62d-b148-5c81-343036b99480" data-is-ix2-target="1" class="lottie-animation-3" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/69f976603849e045838b90f9/69f976653849e045838b9177_Hamburger.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="0" data-duration="4.083333333333333" data-loading="eager"></div></div></div></div></div></div></div><div class="page-wrapper"><div class="main-wrapper"><section class="project_section_hero"><div class="w-layout-blockcontainer project_hero-wrapper w-container"><div class="hero-wrapper_headline"><div data-scramble="load" class="text-block-18">Dự án<br/></div><div data-scramble="load" class="text-block-18-copy"> - Tâm huyết</div></div><div data-scramble="load" class="text-block-19">Bộ sưu tập những sản phẩm số được chăm chút tỉ mỉ từ thiết kế đến vận hành.</div></div></section><section class="project_section_content"><div class="w-layout-blockcontainer project_content-wrapper w-container"><div class="tab-bar"><div class="text-block-20">Tất cả</div><div class="text-block-20">thiết kế &amp; phát triển website</div><div class="text-block-20">thiết kế UI-UX</div><div class="text-block-20">nhận diện thương hiệu</div><div class="text-block-20">thiết kế ấn phẩm</div><div class="text-block-20">khác</div></div><div class="w-dyn-list"><div role="list" class="collection-list-3 w-dyn-items w-row"><div role="listitem" class="collection-item-5 w-dyn-item w-col w-col-6"><a data-wf-native-id-path="86eccd07-dae3-e245-e304-ec1ee13d084e_instance-0" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="86eccd07-dae3-e245-e304-ec1ee13d084e" data-wf-cms-context="%5B%7B%22collectionId%22%3A%2269816f59be327836850afe6d%22%2C%22itemId%22%3A%226981775948da74b98ae0c1b0%22%7D%5D" href="/projects/xay-dung-su-hien-dien-chuyen-nghiep-nhung-day-thu-vi-cho-start-up-cong-nghe-dang-len" class="project_content_card-wrapper w-inline-block"><div class="project_content_card"><div class="project_content_headline text-3-lines">Xây dựng sự hiện diện chuyên nghiệp và đầy cảm hứng cho Start-up công nghệ đang lên</div><div class="project_content_thumbnail"><img src="/69816f59b713f65ad8e4f653/6981773e1c8a2356362b5b27_MACBOOK-MOCKUP-02 Large.jpeg" loading="lazy" alt="" sizes="(max-width: 767px) 96vw, (max-width: 991px) 353px, 459px" srcset="/69816f59b713f65ad8e4f653/6981773e1c8a2356362b5b27_MACBOOK-MOCKUP-02 Large-p-500.jpeg 500w, /69816f59b713f65ad8e4f653/6981773e1c8a2356362b5b27_MACBOOK-MOCKUP-02 Large-p-800.jpeg 800w, /69816f59b713f65ad8e4f653/6981773e1c8a2356362b5b27_MACBOOK-MOCKUP-02 Large-p-1080.jpeg 1080w, /69816f59b713f65ad8e4f653/6981773e1c8a2356362b5b27_MACBOOK-MOCKUP-02 Large.jpeg 1280w" class="image-15"/></div><div class="div-block-34"><div class="project_content_discription text-3-lines">The Martec là một nền tảng tiên phong trong việc chuyển hóa dữ liệu nhân sự thành sức mạnh truyền thông, từ đó giúp các thương hiệu lớn xây dựng uy tín và thu hút nhân tài bằng những nội dung chân thực, được cá nhân hóa một cách thông minh. </div><div class="tag-wrapper"><div class="tag">Thiết kế website</div><div class="tag">phát triển website</div><div class="tag">thiết kế web app</div><div class="tag">tư vấn thiết kế</div></div></div></div></a></div><div role="listitem" class="collection-item-5 w-dyn-item w-col w-col-6"><a data-wf-native-id-path="86eccd07-dae3-e245-e304-ec1ee13d084e_instance-1" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="86eccd07-dae3-e245-e304-ec1ee13d084e" data-wf-cms-context="%5B%7B%22collectionId%22%3A%2269816f59be327836850afe6d%22%2C%22itemId%22%3A%226981761ed8826fd265b3007d%22%7D%5D" href="/projects/goi-tron-net-sang-trong-cua-khach-san-boutique-vao-mot-khong-gian-so-day-tinh-te" class="project_content_card-wrapper w-inline-block"><div class="project_content_card"><div class="project_content_headline text-3-lines">Gói trọn nét sang trọng của khách sạn Boutique vào một không gian số đầy tinh tế</div><div class="project_content_thumbnail"><img src="/69816f59b713f65ad8e4f653/698175c3fb6588fd9bc98faf_homepage Large.jpeg" loading="lazy" alt="" sizes="(max-width: 767px) 96vw, (max-width: 991px) 353px, 459px" srcset="/69816f59b713f65ad8e4f653/698175c3fb6588fd9bc98faf_homepage Large-p-500.jpeg 500w, /69816f59b713f65ad8e4f653/698175c3fb6588fd9bc98faf_homepage Large-p-800.jpeg 800w, /69816f59b713f65ad8e4f653/698175c3fb6588fd9bc98faf_homepage Large-p-1080.jpeg 1080w, /69816f59b713f65ad8e4f653/698175c3fb6588fd9bc98faf_homepage Large.jpeg 1280w" class="image-15"/></div><div class="div-block-34"><div class="project_content_discription text-3-lines">Tọa lạc tại vị trí đắc địa nơi trái tim phố cổ Hà Nội, Manevi Premier Boutique Hotel hiện diện như một biểu tượng của sự giao thoa tinh tế giữa nét quyến rũ cổ điển đặc trưng của di sản và hơi thở sang trọng, phóng khoáng của thời đại mới. Dự án thiết kế website của chúng tôi hướng tới việc số hóa trải nghiệm cao cấp này, mang đến trải nghiệm trực tuyến liền mạch và đẳng cấp cho tệp khách hàng tinh hoa của doanh nghiệp.</div><div class="tag-wrapper"><div class="tag">Thiết kế website</div><div class="tag">phát triển website</div><div class="tag">thiết kế UI-UX</div><div class="tag">tư vấn thiết kế</div></div></div></div></a></div><div role="listitem" class="collection-item-5 w-dyn-item w-col w-col-6"><a data-wf-native-id-path="86eccd07-dae3-e245-e304-ec1ee13d084e_instance-2" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="86eccd07-dae3-e245-e304-ec1ee13d084e" data-wf-cms-context="%5B%7B%22collectionId%22%3A%2269816f59be327836850afe6d%22%2C%22itemId%22%3A%22698170062524dd0fbcc39cd8%22%7D%5D" href="/projects/dinh-hinh-dien-mao-truc-tuyen-cho-doi-ngu-van-hanh-homestay-dang-tren-da-but-pha" class="project_content_card-wrapper w-inline-block"><div class="project_content_card"><div class="project_content_headline text-3-lines">Định hình diện mạo trực tuyến cho đội ngũ vận hành homestay đang trên đà bứt phá</div><div class="project_content_thumbnail"><img src="/69816f59b713f65ad8e4f653/69816fd20439e19d6ba0dfaa_IPHONE-MOCKUP-06 Large.jpeg" loading="lazy" alt="" sizes="(max-width: 767px) 96vw, (max-width: 991px) 353px, 459px" srcset="/69816f59b713f65ad8e4f653/69816fd20439e19d6ba0dfaa_IPHONE-MOCKUP-06 Large-p-500.jpeg 500w, /69816f59b713f65ad8e4f653/69816fd20439e19d6ba0dfaa_IPHONE-MOCKUP-06 Large-p-800.jpeg 800w, /69816f59b713f65ad8e4f653/69816fd20439e19d6ba0dfaa_IPHONE-MOCKUP-06 Large-p-1080.jpeg 1080w, /69816f59b713f65ad8e4f653/69816fd20439e19d6ba0dfaa_IPHONE-MOCKUP-06 Large.jpeg 1280w" class="image-15"/></div><div class="div-block-34"><div class="project_content_discription text-3-lines">S.Sens Homes là một chuỗi căn hộ mô hình Short-term Rental (lưu trú ngắn hạn) bắt đầu với một cơ sở tại Hà Nội vào năm 2015. Đến nay hệ thống chuỗi căn hộ của S.Sens đã lên tới con số trên 40 căn hộ, trải rộng khắp 5 thành phố lớn tại Việt Nam. Để S.Sens có thể truyền tải mục tiêu thương hiệu đó là “Thiết kế riêng biệt giúp bạn trải nghiệm nhịp sống thành phố một cách chân thực và thoải mái nhất, nơi lưu giữ những kỷ niệm đẹp trong suốt kỳ nghỉ của bạn” trên môi trường Digital tốt hơn, chúng tôi đã giúp S.Sens định hướng hình ảnh và xây dựng website của mình.</div><div class="tag-wrapper"><div class="tag">Thiết kế website</div><div class="tag">phát triển website</div><div class="tag">thiết kế UI-UX</div><div class="tag">tư vấn thiết kế</div></div></div></div></a></div></div></div></div><div class="padding-section-120"></div></section></div></div><section class="footer"><div class="carousel-wrapper"><div class="carousel"><div class="div-block-19"><div class="text-block-8">INSPIRE<br/></div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/><div class="text-block-8">DELIVERY</div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/></div><div class="div-block-19"><div class="text-block-8">CREATE<br/></div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/><div class="text-block-8">INSPIRE<br/></div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/></div><div class="div-block-19"><div class="text-block-8">DELIVERY</div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/><div class="text-block-8">CREATE</div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/></div></div><div class="carousel"><div class="div-block-19"><div class="text-block-8">INSPIRE<br/></div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/><div class="text-block-8">DELIVERY</div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/></div><div class="div-block-19"><div class="text-block-8">CREATE<br/></div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/><div class="text-block-8">INSPIRE<br/></div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/></div><div class="div-block-19"><div class="text-block-8">DELIVERY</div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/><div class="text-block-8">CREATE</div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAArElEQVR4nO3YsQ3CMBBA0VsgQoxAA4xFBRJsxwK0YQBGYI18REEFkVAgic/6T/IAX2e7uAhJkqTBgC2wi8yADXAHOuAUySNecsYAZ949Yw6RCbAA2p6YXJPBmJwxx8jEmFIZ8y2gAZYTnhVw64nZ/xJyoRzd4MkUFjI8xpACr1ZTxWOf4fu9/nUSUzOiFDVFtEbMzYiS1LQOWn9Y0OWZRE9M3oiqltiSJCnG9QDveKjnQP0BZAAAAABJRU5ErkJggg==" alt="Right" class="img"/></div></div></div><div class="footer-wrapper"><div class="w-layout-blockcontainer footer_component-wrapper w-container"><div id="w-node-de562e6c-0f4a-79be-cdaf-34f4cba07b02-cba07ae4" class="footer_contact"><div class="div-block-20-copy"><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807d7662ecd0c600bde722_pixelarticons_home.png" alt=""/><div class="text-block-9">based in Vietnam</div></div><a data-wf-native-id-path="14a356dd-e0b8-70c7-9ee3-e2c194822602:b60b88af-2ab4-31d5-1d88-d3803b8cbf86" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="b60b88af-2ab4-31d5-1d88-d3803b8cbf86" data-wf-component-context="%5B%7B%22componentId%22%3A%22de562e6c-0f4a-79be-cdaf-34f4cba07ae4%22%2C%22instanceId%22%3A%2214a356dd-e0b8-70c7-9ee3-e2c194822602%22%7D%5D" href="https://www.instagram.com/studio.daodesign/" target="_blank" class="link-block-7 w-inline-block"><div class="div-block-20-copy"><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807d7600401fa19e13fe9a_pixel_instagram.png" alt=""/><div class="text-block-9">studio.daodesign</div></div></a><a data-wf-native-id-path="14a356dd-e0b8-70c7-9ee3-e2c194822602:0722df4d-6687-c5e5-887a-107749e2e26b" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="0722df4d-6687-c5e5-887a-107749e2e26b" data-wf-component-context="%5B%7B%22componentId%22%3A%22de562e6c-0f4a-79be-cdaf-34f4cba07ae4%22%2C%22instanceId%22%3A%2214a356dd-e0b8-70c7-9ee3-e2c194822602%22%7D%5D" href="mailto:studiodaodesign@gmail.com?subject=Email%20from%20daodesign.vn" class="link-block-6 w-inline-block"><div class="div-block-20-copy"><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807d779f29c66f643aafc4_memory_email.png" alt=""/><div class="text-block-9">studiodaodesign@gmail.com</div></div></a></div><div id="w-node-de562e6c-0f4a-79be-cdaf-34f4cba07b0f-cba07ae4" class="footer_site-map-wrapper"><div class="footer_divider-vertical"></div><div class="footer_site-map"><div class="footer_divider adjust"></div><a data-wf-native-id-path="14a356dd-e0b8-70c7-9ee3-e2c194822602:de562e6c-0f4a-79be-cdaf-34f4cba07b12" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="de562e6c-0f4a-79be-cdaf-34f4cba07b12" data-wf-component-context="%5B%7B%22componentId%22%3A%22de562e6c-0f4a-79be-cdaf-34f4cba07ae4%22%2C%22instanceId%22%3A%2214a356dd-e0b8-70c7-9ee3-e2c194822602%22%7D%5D" href="/" class="div-block-20 w-inline-block"><div class="text-block-9-copy">trang chủ</div><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807ea86dfbb91e86f00814_arrow-up-right.png" alt="" class="image-50"/></a><div class="footer_divider"></div><a data-wf-native-id-path="14a356dd-e0b8-70c7-9ee3-e2c194822602:de562e6c-0f4a-79be-cdaf-34f4cba07b17" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="de562e6c-0f4a-79be-cdaf-34f4cba07b17" data-wf-component-context="%5B%7B%22componentId%22%3A%22de562e6c-0f4a-79be-cdaf-34f4cba07ae4%22%2C%22instanceId%22%3A%2214a356dd-e0b8-70c7-9ee3-e2c194822602%22%7D%5D" href="/projects" aria-current="page" class="div-block-20 w-inline-block w--current"><div class="text-block-9-copy">dự án</div><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807ea86dfbb91e86f00814_arrow-up-right.png" alt=""/></a><div class="footer_divider"></div><a data-wf-native-id-path="14a356dd-e0b8-70c7-9ee3-e2c194822602:de562e6c-0f4a-79be-cdaf-34f4cba07b1c" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="de562e6c-0f4a-79be-cdaf-34f4cba07b1c" data-wf-component-context="%5B%7B%22componentId%22%3A%22de562e6c-0f4a-79be-cdaf-34f4cba07ae4%22%2C%22instanceId%22%3A%2214a356dd-e0b8-70c7-9ee3-e2c194822602%22%7D%5D" href="/about" class="div-block-20 w-inline-block"><div class="text-block-9-copy">giới thiệu</div><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807ea86dfbb91e86f00814_arrow-up-right.png" alt=""/></a><div class="footer_divider"></div><div class="div-block-20 display-none"><div class="text-block-9-copy">ý tưởng</div><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807ea86dfbb91e86f00814_arrow-up-right.png" alt=""/></div><div class="footer_divider"></div><a data-wf-native-id-path="14a356dd-e0b8-70c7-9ee3-e2c194822602:de562e6c-0f4a-79be-cdaf-34f4cba07b26" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="de562e6c-0f4a-79be-cdaf-34f4cba07b26" data-wf-component-context="%5B%7B%22componentId%22%3A%22de562e6c-0f4a-79be-cdaf-34f4cba07ae4%22%2C%22instanceId%22%3A%2214a356dd-e0b8-70c7-9ee3-e2c194822602%22%7D%5D" href="/contact" class="div-block-20 w-inline-block"><div class="text-block-9-copy">kết nối</div><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807ea86dfbb91e86f00814_arrow-up-right.png" alt=""/></a></div><div class="footer_divider-vertical"></div></div><div class="footer_message"><div class="text-block-10"><strong>Bạn đã sẵn sàng chia sẻ?</strong></div><div class="text-block-11">Kết nối với chúng tôi để cùng bắt đầu hành trình hiện thực hóa tầm nhìn của bạn.</div></div></div><div class="footer_logo"><div class="div-block-22"><div class="div-block-20-copy"><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807d778cf0fcc17d89f7b2_solar_copyright-broken.png" alt=""/><div class="text-block-9">Dao.Design</div></div><div class="div-block-20-copy"><img loading="lazy" src="/696db0cd2780ac54df960dfb/69807d7781bcb5165398e84a_pixel_globe.png" alt=""/><div class="text-block-9">working globally</div></div></div><div class="div-block-80"><img sizes="(max-width: 1512px) 100vw, 1512px" srcset="/696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-500.png 500w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-800.png 800w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo-p-1080.png 1080w, /696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo.png 1512w" alt="" src="/696db0cd2780ac54df960dfb/6980836a3b2ecebdfb7ef106_logo.png" loading="lazy" class="image-48"/></div></div></div></section><div class="text-line-clamp w-embed"><style>
+.text-2-lines {
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 2;
+overflow: hidden;
+}
+
+.text-3-lines {
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 3;
+overflow: hidden;
+}
+
+.text-4-lines {
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 4;
+overflow: hidden;
+}
+
+.text-5-lines {
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 5;
+overflow: hidden;
+}
+
+.text-6-lines {
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 6;
+overflow: hidden;
+}
+
+</style></div><div class="transition"><div class="transition-block"></div></div><img src="/696db0cd2780ac54df960dfb/69ac5ba4251449e1247d444f_Frame 35304.svg" loading="lazy" alt="" class="cursor"/><nav data-navigation-status="not-active" class="bold-nav-full"><div class="bold-nav-full__bar"><a data-wf-native-id-path="cd0cd636-d71c-af9b-a23b-b4f3c8624ded" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="cd0cd636-d71c-af9b-a23b-b4f3c8624ded" href="#" class="bold-nav-full__logo w-inline-block"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 110 25" fill="none"><path d="M38.6535 24.1686C42.7849 24.1686 46.4296 22.0917 48.6049 18.9263C49.8544 22.1497 53.0867 24.1686 57.3663 24.1686C60.4495 24.1686 63.0501 23.1833 64.721 21.5632L64.4802 23.6683H69.7007L70.9503 12.7679L73.8514 23.6683H79.0769L81.978 12.7679L83.2268 23.6683H88.4473L87.8882 18.7885C90.0514 22.0313 93.7421 24.1686 97.933 24.1686C104.597 24.1686 110 18.766 110 12.1016C110 5.43732 104.596 0.0346429 97.9314 0.0346429C92.7608 0.0346429 88.3515 3.28785 86.6338 7.85749L85.7903 0.499502H80.0211L76.4625 13.8708L72.904 0.499502H67.1348L66.3243 7.56906C66.226 5.51224 65.3817 3.64878 63.9251 2.29932C62.3017 0.795175 60.0338 0 57.3655 0C54.8656 0 52.7113 0.712193 51.1354 2.06004C49.9737 3.05421 49.2131 4.33761 48.9191 5.76119C46.793 2.32429 42.9919 0.0346429 38.6535 0.0346429C31.9892 0.0346429 26.5865 5.43732 26.5865 12.1016C26.5865 18.766 31.9892 24.1686 38.6535 24.1686ZM97.9314 5.46471C101.597 5.46471 104.568 8.43594 104.568 12.1016C104.568 15.7673 101.597 18.7386 97.9314 18.7386C94.2657 18.7386 91.2945 15.7673 91.2945 12.1016C91.2945 8.43594 94.2657 5.46471 97.9314 5.46471ZM57.3663 5.05786C59.6318 5.05786 61.0223 6.10681 61.0852 7.86393L61.1045 8.39808H66.23L65.7015 13.0128C65.4389 12.5899 65.1271 12.1991 64.7637 11.8438C63.5682 10.6773 61.8151 9.88289 59.552 9.48328L56.501 8.93706C54.4797 8.5729 54.0656 7.94127 54.0656 7.10501C54.0656 6.89554 54.1582 5.05705 57.3663 5.05705V5.05786ZM55.1757 14.0094L58.7705 14.6837C61.0916 15.1293 61.4042 16.0711 61.4042 16.9339C61.4042 18.2963 59.8565 19.1422 57.3647 19.1422C54.4055 19.1422 53.2873 17.4729 53.2285 16.0437L53.2067 15.5128H50.2275C50.5457 14.4308 50.7197 13.2868 50.7197 12.1016C50.7197 12.0452 50.7165 11.9889 50.7157 11.9325C51.7872 12.95 53.2833 13.6598 55.1749 14.0094H55.1757ZM38.6535 5.46471C42.3192 5.46471 45.2904 8.43594 45.2904 12.1016C45.2904 15.7673 42.3192 18.7386 38.6535 18.7386C34.9878 18.7386 32.0166 15.7673 32.0166 12.1016C32.0166 8.43594 34.9878 5.46471 38.6535 5.46471Z" fill="currentColor"></path><path d="M16.3506 9.9554L21.6985 4.6075L19.5619 2.47092L14.214 7.81882C13.986 8.04762 13.5953 7.88569 13.5953 7.56262V0H10.5741V9.12397C10.5741 9.92478 9.92476 10.5741 9.12395 10.5741H0V13.5953H7.56261C7.88567 13.5953 8.04761 13.9861 7.8188 14.2141L2.47172 19.5619L4.6083 21.6985L9.95618 16.3506C10.1842 16.1226 10.5749 16.2838 10.5749 16.6068V24.1694H13.5961V15.0455C13.5961 14.2447 14.2454 13.5953 15.0463 13.5953H24.1702V10.5741H16.6076C16.2845 10.5741 16.1226 10.1834 16.3514 9.9554H16.3506Z" fill="#D0FF00"></path></svg></a><button data-navigation-toggle="toggle" class="bold-nav-full__hamburger"><div class="bold-nav-full__hamburger-bar"></div><div class="bold-nav-full__hamburger-bar"></div><div class="bold-nav-full__hamburger-bar"></div></button></div><div class="bold-nav-full__tile"><ul class="bold-nav-full__ul"><li class="bold-nav-full__li"><a data-wf-native-id-path="cd0cd636-d71c-af9b-a23b-b4f3c8624df8" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="cd0cd636-d71c-af9b-a23b-b4f3c8624df8" href="#" class="bold-nav-full__link w-inline-block"><span class="bold-nav-full__link-text">Home</span></a></li><li class="bold-nav-full__li"><a data-wf-native-id-path="cd0cd636-d71c-af9b-a23b-b4f3c8624dfc" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="cd0cd636-d71c-af9b-a23b-b4f3c8624dfc" href="#" class="bold-nav-full__link is--current w-inline-block"><span class="bold-nav-full__link-text">Work</span></a></li><li class="bold-nav-full__li"><a data-wf-native-id-path="cd0cd636-d71c-af9b-a23b-b4f3c8624e00" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="cd0cd636-d71c-af9b-a23b-b4f3c8624e00" href="#" class="bold-nav-full__link w-inline-block"><span class="bold-nav-full__link-text">Company</span></a></li><li class="bold-nav-full__li"><a data-wf-native-id-path="cd0cd636-d71c-af9b-a23b-b4f3c8624e04" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="cd0cd636-d71c-af9b-a23b-b4f3c8624e04" href="#" class="bold-nav-full__link w-inline-block"><span class="bold-nav-full__link-text">Blog</span></a></li><li class="bold-nav-full__li"><a data-wf-native-id-path="cd0cd636-d71c-af9b-a23b-b4f3c8624e08" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="cd0cd636-d71c-af9b-a23b-b4f3c8624e08" href="#" class="bold-nav-full__link w-inline-block"><span class="bold-nav-full__link-text">Contact</span></a></li></ul><div class="bold-nav__bottom"><p class="bold-nav__word">Global Community</p><p class="bold-nav__word">hello@osmo.supply</p></div></div></nav><script src="/js/jquery-3.5.1.min.dc5e7f18c8.js__site_696db0cd2780ac54df960dfb" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="/696db0cd2780ac54df960dfb/js/webflow.schunk.d1f366092ea27f7d.js" type="text/javascript" integrity="sha384-sS3OS18rlgnIJKIBi6M56RNc8LmFKYg704wR+EJXdlQ9g0UWDhIgyT9rbOjKHaBQ" crossorigin="anonymous"></script><script src="/696db0cd2780ac54df960dfb/js/webflow.schunk.51486e39e9925d2c.js" type="text/javascript" integrity="sha384-zSaD2gcVq0uKDXMlTGLrczhd9MvZ9IGFXnPyH+S6BeEOBVkTj2femeHeBhsSG3pS" crossorigin="anonymous"></script><script src="/696db0cd2780ac54df960dfb/js/webflow.schunk.5c8236843c66a6f3.js" type="text/javascript" integrity="sha384-1M6wfyYkRArKQjNGJ7TDpch2KoXqBxRTbdUSEL6kwyq1Zf3f9cBV9gNorrzJD4gE" crossorigin="anonymous"></script><script src="/696db0cd2780ac54df960dfb/js/webflow.2dd26185.caec4519162ef771.js" type="text/javascript" integrity="sha384-UBi8UgxpjYhmYay1d7JSvx9bJkOBOtQzR0WAZPX4hczk+6tJonTRF/UHfmhk85xg" crossorigin="anonymous"></script><script src="/gsap/3.15.0/gsap.min.js" type="text/javascript"></script>
+<!-- Smooth Scrolling -->
+<script src="/gh/studio-freight/lenis@0.2.28/bundled/lenis.js"></script>
+
+<script>
+const lenis = new Lenis({
+duration: 1.8,
+easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)), // https://www.desmos.com/calculator/brs54l4xou
+direction: 'vertical', // vertical, horizontal
+gestureDirection: 'vertical', // vertical, horizontal, both
+smooth: true,
+mouseMultiplier: 1,
+smoothTouch: false,
+touchMultiplier: 2,
+infinite: false,
+})
+
+//get scroll value
+lenis.on('scroll', ({ scroll, limit, velocity, direction, progress }) => { console.log({ scroll, limit, velocity, direction, progress })
+})
+
+function raf(time)
+
+{
+lenis.raf(time)
+
+
+requestAnimationFrame(raf)
+}
+
+requestAnimationFrame(raf)
+</script>
+
+
+
+
+<!--pixelate page transition-->
+<script src="/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+
+<script>
+function adjustGrid() {
+  return new Promise((resolve) => {
+    const transition = document.querySelector('.transition');
+
+    // Get computed style of the grid and extract the number of columns
+    const computedStyle = window.getComputedStyle(transition);
+    const gridTemplateColumns = computedStyle.getPropertyValue('grid-template-columns');
+    const columns = gridTemplateColumns.split(' ').length; // Count the number of columns
+
+    const blockSize = window.innerWidth / columns;
+    const rowsNeeded = Math.ceil(window.innerHeight / blockSize);
+
+    // Update grid styles
+    transition.style.gridTemplateRows = `repeat(${rowsNeeded}, ${blockSize}px)`;
+
+    // Calculate the total number of blocks needed
+    const totalBlocks = columns * rowsNeeded;
+
+    // Clear existing blocks
+    transition.innerHTML = '';
+
+    // Generate blocks dynamically
+    for (let i = 0; i < totalBlocks; i++) {
+      const block = document.createElement('div');
+      block.classList.add('transition-block');
+      transition.appendChild(block);
+    }
+
+    // Resolve the Promise after grid creation is complete
+    resolve();
+  });
+}
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  adjustGrid().then(() => {
+    let pageLoadTimeline = gsap.timeline({
+      onStart: () => {
+        gsap.set(".transition", { background: "transparent" });
+      },
+      onComplete: () => {
+        gsap.set(".transition", { display: "none" });
+      },
+      defaults: {
+        ease: "linear"
+      }
+    });
+
+    // Play the timeline only after the grid is ready
+    pageLoadTimeline.to(".transition-block", {
+      opacity: 0,
+      duration: 0.1,
+      stagger: { amount: 0.75, from: "random" },
+    }, 0.5);
+  });
+
+  // Pre-process all valid links
+  const validLinks = Array.from(document.querySelectorAll("a")).filter(link => {
+    const href = link.getAttribute("href") || "";
+    const hostname = new URL(link.href, window.location.origin).hostname;
+
+    return (
+      hostname === window.location.hostname && // Same domain
+      !href.startsWith("#") &&                 // Not an anchor link
+      link.getAttribute("target") !== "_blank" && // Not opening in a new tab
+      !link.hasAttribute("data-transition-prevent") // No 'data-transition-prevent' attribute
+    );
+  });
+
+  // Add event listeners to pre-processed valid links
+  validLinks.forEach(link => {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      const destination = link.href;
+
+      // Show loading grid with animation
+      gsap.set(".transition", { display: "grid" });
+      gsap.fromTo(
+        ".transition-block",
+        { autoAlpha: 0 },
+        {
+          autoAlpha: 1,
+          duration: 0.001,
+          ease: "linear",
+          stagger: { amount: 0.5, from: "random" },
+          onComplete: () => {
+            window.location.href = destination;
+          }
+        }
+      );
+    });
+  });
+
+  window.addEventListener("pageshow", (event) => {
+    if (event.persisted) {
+      window.location.reload();
+    }
+  });
+  
+  window.addEventListener('resize', adjustGrid);
+});
+</script>
+
+
+<style>
+/* Show grid on page load (it's set to display none in Webflow) */
+.transition{ display: grid; }
+
+/* Hide grid in the editor */
+.w-editor .transition{ display: none; }
+</style>
+
+
+
+
+
+
+
+<!-- custom cursor that detect mouse device-->
+<style>
+@media (hover: hover) and (pointer: fine) {
+  body:has(a:hover) .cursor {
+    width: 2rem;
+  }
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const hasMouse = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+
+  // Stop cursor script on tablets & phones
+  if (!hasMouse) {
+    const cursor = document.querySelector(".cursor");
+    if (cursor) cursor.style.display = "none";
+    return;
+  }
+
+  // Custom cursor animation
+  gsap.set(".cursor", { xPercent: -50, yPercent: -50 });
+
+  let xTo = gsap.quickTo(".cursor", "x", { duration: 0.3, ease: "power3" });
+  let yTo = gsap.quickTo(".cursor", "y", { duration: 0.3, ease: "power3" });
+
+  window.addEventListener("mousemove", e => {
+    xTo(e.clientX);
+    yTo(e.clientY);
+  });
+
+});
+</script>
+
+
+
+
+<!-- carousel -->
+<script src="/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+
+<script>
+window.addEventListener("load", () => {
+  gsap.utils.toArray(".carousel-wrapper").forEach((wrap) => {
+    const tracks = wrap.querySelectorAll(".carousel");
+
+    const tweens = Array.from(tracks).map((track) =>
+      gsap.to(track, { xPercent: -100, duration: 20, ease: "none", repeat: -1 })
+    );
+
+    gsap.set(wrap, { pointerEvents: "auto" });
+
+    gsap.utils.toArray([wrap]).forEach((el) => {
+      el.onmouseenter = () => tweens.forEach((t) => t.pause());
+      el.onmouseleave = () => tweens.forEach((t) => t.resume());
+    });
+  });
+});
+</script>
+
+<!-- Hero Text Scramble Animation -->
+<script src="/npm/gsap@3.15/dist/gsap.min.js"></script>
+<script src="/npm/gsap@3.15/dist/ScrambleTextPlugin.min.js"></script>
+<script src="/npm/gsap@3.15/dist/SplitText.min.js"></script>
+<script src="/npm/gsap@3.15/dist/ScrollTrigger.min.js"></script>
+
+<script>
+gsap.registerPlugin(ScrollTrigger, ScrambleTextPlugin, SplitText)
+
+// Function to reveal stuff on load
+function initScrambleOnLoad(){
+  let targets = document.querySelectorAll('[data-scramble="load"]')
+  
+  targets.forEach((target) => {
+  	// split into seperate words + letters 
+    let split = new SplitText(target, {
+      type: "words, chars",
+      wordsClass: "word",
+      charsClass: "char"
+    });
+    
+    gsap.to(split.words, {
+      delay: 0.7,
+      duration: 1.2,
+      stagger: 0.01,
+      scrambleText: {
+        text: "{original}",
+        chars: 'upperCase', // experiment with different scramble characters here
+        speed: 0.85,
+      },
+      // Once animation is done, revert the split to reduce DOM size
+      onComplete: () => split.revert()
+    });
+  });
+}
+
+// Initialize Scramble Functions
+document.addEventListener("DOMContentLoaded", () => {
+  initScrambleOnLoad();
+  initScrambleOnScroll();
+  initScrambleOnHover();
+});
+  
+</script>
+</body></html>

@@ -1,0 +1,132 @@
+- generic [active] [ref=e1]:
+  - text: 
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - link "home" [ref=e7] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e8]
+      - link "Liên Hệ Contact" [ref=e12] [cursor=pointer]:
+        - /url: /contact
+        - generic [ref=e14]:
+          - generic [ref=e15]: Liên Hệ
+          - generic [ref=e16]: Contact
+  - generic [ref=e20]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic "Bạn đã sẵn sàng chia sẻ?" [ref=e25]:
+            - generic [ref=e26]:
+              - generic [ref=e27]: B
+              - generic [ref=e28]: ạ
+              - generic [ref=e29]: "n"
+            - generic [ref=e30]:
+              - generic [ref=e31]: đ
+              - generic [ref=e32]: ã
+            - generic [ref=e33]:
+              - generic [ref=e34]: s
+              - generic [ref=e35]: ẵ
+              - generic [ref=e36]: "n"
+            - generic [ref=e37]:
+              - generic [ref=e38]: s
+              - generic [ref=e39]: à
+              - generic [ref=e40]: "n"
+              - generic [ref=e41]: g
+            - generic [ref=e42]:
+              - generic [ref=e43]: c
+              - generic [ref=e44]: h
+              - generic [ref=e45]: i
+              - generic [ref=e46]: a
+            - generic [ref=e47]:
+              - generic [ref=e48]: s
+              - generic [ref=e49]: ẻ
+              - generic [ref=e50]: "?"
+          - generic [ref=e51]: Hãy liên hệ trực tiếp hoặc gửi thông tin qua biểu mẫu, đội ngũ của chúng tôi sẽ kết nối với bạn trong thời gian sớm nhất.
+        - generic [ref=e52]:
+          - link "09.7476.1996" [ref=e53] [cursor=pointer]:
+            - /url: tel:0974761996
+            - generic [ref=e54]: 09.7476.1996
+          - link "studiodaodesign@gmail.com" [ref=e55] [cursor=pointer]:
+            - /url: mailto:studiodaodesign@gmail.com?subject=Mail%20from%20daodesign.vn
+            - generic [ref=e56]: studiodaodesign@gmail.com
+          - link "studio.daodesign" [ref=e57] [cursor=pointer]:
+            - /url: https://www.instagram.com/studio.daodesign/
+            - generic [ref=e58]: studio.daodesign
+      - form "Form" [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]: họ và tên
+          - textbox "họ và tên" [ref=e65]:
+            - /placeholder: ""
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - generic [ref=e69]: Email
+            - textbox [ref=e71]
+          - generic [ref=e73]:
+            - generic [ref=e74]: Số điện thoại
+            - textbox [ref=e76]
+        - generic [ref=e78]:
+          - generic [ref=e79]: LỜI NHẮN
+          - textbox "Hãy giúp chúng tôi hiểu hơn về dự án của bạn" [ref=e81]
+        - button "gửi yêu cầu" [ref=e83] [cursor=pointer]
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - generic [ref=e89]: INSPIRE
+            - img "Right" [ref=e90]
+            - generic [ref=e91]: DELIVERY
+            - img "Right" [ref=e92]
+          - generic [ref=e93]:
+            - generic [ref=e94]: CREATE
+            - img "Right" [ref=e95]
+            - generic [ref=e96]: INSPIRE
+            - img "Right" [ref=e97]
+          - generic [ref=e98]:
+            - generic [ref=e99]: DELIVERY
+            - img "Right" [ref=e100]
+            - generic [ref=e101]: CREATE
+            - img "Right" [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105]: INSPIRE
+            - img "Right" [ref=e106]
+            - generic [ref=e107]: DELIVERY
+            - img "Right" [ref=e108]
+          - generic [ref=e109]:
+            - generic [ref=e110]: CREATE
+            - img "Right" [ref=e111]
+            - generic [ref=e112]: INSPIRE
+            - img "Right" [ref=e113]
+          - generic [ref=e114]:
+            - generic [ref=e115]: DELIVERY
+            - img "Right" [ref=e116]
+            - generic [ref=e117]: CREATE
+            - img "Right" [ref=e118]
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - generic [ref=e121]:
+            - generic [ref=e123]: based in Vietnam
+            - link "studio.daodesign" [ref=e124] [cursor=pointer]:
+              - /url: https://www.instagram.com/studio.daodesign/
+              - generic [ref=e126]: studio.daodesign
+            - link "studiodaodesign@gmail.com" [ref=e127] [cursor=pointer]:
+              - /url: mailto:studiodaodesign@gmail.com?subject=Email%20from%20daodesign.vn
+              - generic [ref=e129]: studiodaodesign@gmail.com
+          - generic [ref=e132]:
+            - link "trang chủ" [ref=e133] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e134]: trang chủ
+            - link "dự án" [ref=e136] [cursor=pointer]:
+              - /url: /projects
+              - generic [ref=e137]: dự án
+            - link "giới thiệu" [ref=e139] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e140]: giới thiệu
+            - link "kết nối" [ref=e143] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e144]: kết nối
+          - generic [ref=e146]:
+            - strong [ref=e148]: Bạn đã sẵn sàng chia sẻ?
+            - generic [ref=e149]: Kết nối với chúng tôi để cùng bắt đầu hành trình hiện thực hóa tầm nhìn của bạn.
+        - generic [ref=e151]:
+          - generic [ref=e153]: Dao.Design
+          - generic [ref=e155]: working globally
